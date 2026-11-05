@@ -1,0 +1,8 @@
+{
+  "name": "EduAI - Քո խելացի ուսումնական օգնականը",
+  "description": "Ժամանակակից AI չատբոտ դպրոցականների համար՝ քայլ առ քայլ հայերեն բացատրություններով բոլոր առարկաներից։",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
